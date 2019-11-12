@@ -95,11 +95,4 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:liweiwh/liweiwh.github.io.git
-  branch: master
-  message: "hexo deploy"
-  name: itheima
-  email: liweiwh@itcast.cn
-  ignore_hidden: false # default is true
-  ignore_pattern: regexp # whatever file that matches the regexp will be ignored when deploying
+  type: ""
